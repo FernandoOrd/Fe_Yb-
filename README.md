@@ -1,4 +1,3 @@
-# Fe_Yb
 # Fe/Yb - Magnetismo interfacial inducido por deformación
 
 ## Objetivo
